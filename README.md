@@ -8,7 +8,7 @@ in this program, I applied some of image processing method Like:
 * 4- Harris Corner detection
 * 5- Image Pyramids
 
-# Requierment: 
+# Requirement: 
 
 Opencv 3.2.0
 
